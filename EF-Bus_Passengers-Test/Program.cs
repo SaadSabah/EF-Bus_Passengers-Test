@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 Console.WriteLine("One to many- many to one!");
 MyDbContext Context = new MyDbContext();
 
-//Passengers passenger1 = new Passengers();
+//Passengers passenger1 = new Passengers(); 
 //passenger1.FirstName = "Rami";
 //passenger1.LastName = "Yasa";
 //passenger1.BussId = 1;
